@@ -1,0 +1,71 @@
+.navbar img{
+    width: 80px;
+}
+
+
+.slider{
+    background: #f9f9ff;
+}
+.button{
+    background: #8490ff;
+}
+.button:hover{
+    background: #6675fc;
+}
+.service{
+    background: #f9f9ff;
+}
+.happy_client{
+    background: #8490ff;
+}
+.card ul{
+    list-style: none;
+    font-size: 17px;
+    margin-top: 1rem;
+
+}
+.cards .card h3{
+    background:#f9f9ff;
+    display: inline-block;
+    width: 6rem;
+    height: 6rem;
+    padding: 30px;
+    border-radius: 50%;
+}
+
+.service .card1{
+    box-shadow: 2px 2px 40px #8490ff5f;
+}
+
+.service .card1 .card_btn{
+    box-shadow: 2px 2px 15px #8490ff7a;
+    margin-bottom: 2.4rem !important;
+}
+.clients{
+    padding-top: 5rem !important;
+    padding-bottom: 3rem;
+}
+
+.clients h2{
+    font-size: 24px;
+}
+.clients .card{
+    padding: 3rem 1rem;
+    border: none;
+    margin-bottom: 5rem !important;
+}
+.clients .img{
+    width: 120px;
+   margin-top: -7rem;
+}
+.contact {
+    background: #f9f9ff;
+}
+.contact_form{
+    box-shadow: 2px 2px 40px #8490ff5f;
+}
+.contact form input,textarea{
+    border: 1px solid #8484939a;
+    outline: none;
+    border-radius: 4px;
+}
